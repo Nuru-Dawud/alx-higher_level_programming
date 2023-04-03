@@ -1,1 +1,1 @@
-Read me file for Python classes 0x08
+Read me file for the project   0x08. Python - More Classes and Objects
